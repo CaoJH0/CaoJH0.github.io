@@ -22,26 +22,20 @@ author_notes:
 - "Corresponding author"
 date: "2026-01-20T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2099-04-16T00:00:00Z"
+publishDate: "2026-04-15T00:00:00Z"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
 publication: "*Journal of Integrative Plant Biology*"
-publication_short: "J. Integr. Plant Biol."
+publication_short: "JIPB"
 
 abstract: Ongoing climate warming has altered precipitation patterns and increased the frequency and intensity of climate extremes such as droughts, heatwaves, floods, and frosts. These changes have significantly influenced tree growth and development processes, including canopy phenology, intra-annual wood formation dynamics, and annual stem growth. However, these processes are affected by various climatic factors, and their responses are highly species-specific and vary across temporal and spatial scales. Beyond these rapid growth responses, trees may also undergo long-term genetic adaptation to climate change. This review synthesizes how canopy phenology, intra-annual wood formation dynamics, and annual stem growth respond to climate change and climate extremes. We summarize the response and adaptation of these growth processes to various climatic drivers and highlight the interactions among them in determining tree growth. Concepts and mechanisms of rapid response and heritable genetic adaptation in trees under climate change are also reviewed. We identify the key knowledge gaps in tree growth response and adaptation, such as integrative multiple organ and growth process monitoring and genetic-level studies, which are critical to further improve our understanding of tree growth to support sustainable forest management and enhance forest carbon storage under ongoing climate warming.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
-featured: false
+- Review Article
+featured: true
 
 hugoblox:
   ids:
@@ -65,18 +59,7 @@ links:
   # - type: video
   #   url: ""
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
 
 # Slides (optional).
@@ -86,11 +69,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

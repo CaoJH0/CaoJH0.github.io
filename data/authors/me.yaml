@@ -18,7 +18,7 @@ bio: |
   "CAO Jiahao is a PhD student at Zhejiang University. His research
    focuses on forest growth and climate change. He has published papers
    in modelling forest disturbances and reviewing forest growth responses and
-   adaptation to climate change."
+   adaptation to climate change and climate extremes."
 
 affiliations:
   - name: "Huang Lab, Zhejiang University"
@@ -40,10 +40,12 @@ links:
     url: "https://orcid.org/0000-0003-3627-6562"
 
 interests:
-  - "Forest Growth Modelling"
+  - "Forest Ecology"
+  - "Ecological Modelling"
   - "Climate Change"
   - "Forest Dynamics"
   - "Dendrochronology"
+  - "machine learning"
 
 education:
   - degree: "PhD Student in Ecology"
