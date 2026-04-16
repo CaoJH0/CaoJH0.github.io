@@ -2,14 +2,6 @@
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
 
-<h1 align="center">The Portfolio That Works While You Sleep</h1>
-
-<p align="center">
-  <strong>Your unfair advantage in academia.</strong><br/>
-  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
-  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
-</p>
-
 <p align="center">
   <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
   &nbsp;•&nbsp;
@@ -76,33 +68,6 @@ Most CVs are static PDFs that get lost in the pile. This is an **intelligent por
 - Coming soon: **Notebook → Slides (beta)**. Request early access in Discord.
 
 Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-notebooks) and [Slides](https://docs.hugoblox.com/guides/slides/).
-
----
-
-## Why Go Pro (from $8/m)
-
-- Enhanced Ownable CMS visual editor — save 10–20 hours setting up and polishing
-- Premium CV & Resumé designs — make an unforgettable first impression
-- Pro blocks, remove attribution, and priority support
-
----
-
-## Free vs Pro
-
-| Feature | Academic CV (Free) | Academic CV Pro & Resumé Pro |
-| --- | --- | --- |
-| Design | Professional & clean | Premium designs |
-| Layouts | Standard sections | Advanced timelines & layouts |
-| Courses/Lectures | Basic | Fully-Featured |
-| First Impression | Strong | Unforgettable |
-| Discord Support | Community | Priority |
-
-<p align="center">
-  <a href="https://hugoblox.com/pricing?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
 
 ---
 
